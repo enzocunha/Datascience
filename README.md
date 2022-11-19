@@ -1,5 +1,13 @@
 # Datascience
 
-[KNN](Modelos/KNN.ipynb)
+## Aprendizado supervisionado
 
-[Naive Bayes](Modelos/Naive_Bayes.ipynb)
+Descrição de aprendizado supervisionado
+
+* [KNN](Modelos/KNN.ipynb)
+
+* [Naive Bayes](Modelos/Naive_Bayes.ipynb)
+
+## Aprendizado não supervisionado
+
+Descrição de aprendizado não supervisionado
