@@ -8,6 +8,8 @@ Descrição de aprendizado supervisionado
 
 * [Naive Bayes](Modelos/Naive_Bayes.ipynb)
 
+* [SVM](Modelos/SVM.ipynb)
+
 ## Aprendizado não supervisionado
 
 Descrição de aprendizado não supervisionado
