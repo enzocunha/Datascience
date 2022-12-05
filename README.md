@@ -10,19 +10,19 @@ No aprendizado supervisionado, os modelos recebem um dataset incluindo não só 
 
 * [SVM](Modelos/SVM.ipynb)
 
-* [Random Forest](Modelos/Random_Forest)
+* [Random Forest](Modelos/Random_Forest.ipynb)
 
-* [Redes Neurais](Modelos/Redes_Neurais)
+* [Redes Neurais](Modelos/Redes_Neurais.ipynb)
 
-* [Processamento de linguagem natural](Modelos/Processamento_Linguagem_Natural)
+* [Processamento de linguagem natural](Modelos/Processamento_Linguagem_Natural.ipynb)
 
 
 ## Aprendizado não supervisionado
 
 Nesse tipo de aprendizado, o algoritmo analiza e agrupa os dados em busca de padrões.
 
-* [K-means clustering](Modelos/K-Means_Clustering)
+* [K-means clustering](Modelos/K-Means_Clustering.ipynb)
 
-* [Agglomerative clustering](Modelos/Agglomerative_Clustering)
+* [Agglomerative clustering](Modelos/Agglomerative_Clustering.ipynb)
 
-* [DBSCAN](Modelos/DBSCAN)
+* [DBSCAN](Modelos/DBSCAN.ipynb)
