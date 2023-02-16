@@ -1,28 +1,34 @@
 # Datascience
 
-## Aprendizado supervisionado
+## Estudo sobre diferentes modelos de machine learning
+
+### Aprendizado supervisionado
 
 No aprendizado supervisionado, os modelos recebem um dataset incluindo não só as variáveis, mas também a saída desejada.
 
-* [KNN](Modelos/KNN.ipynb)
+* [KNN](T1/KNN.ipynb)
 
-* [Naive Bayes](Modelos/Naive_Bayes.ipynb)
+* [Naive Bayes](T1/Naive_Bayes.ipynb)
 
-* [SVM](Modelos/SVM.ipynb)
+* [SVM](T1/SVM.ipynb)
 
-* [Random Forest](Modelos/Random_Forest.ipynb)
+* [Random Forest](T1/Random_Forest.ipynb)
 
-* [Redes Neurais](Modelos/Redes_Neurais.ipynb)
+* [Redes Neurais](T1/Redes_Neurais.ipynb)
 
-* [Processamento de linguagem natural](Modelos/Processamento_Linguagem_Natural.ipynb)
+* [Processamento de linguagem natural](T1/Processamento_Linguagem_Natural.ipynb)
 
 
-## Aprendizado não supervisionado
+### Aprendizado não supervisionado
 
 Nesse tipo de aprendizado, o algoritmo analiza e agrupa os dados em busca de padrões.
 
-* [K-means clustering](Modelos/K-Means_Clustering.ipynb)
+* [K-means clustering](T1/K-Means_Clustering.ipynb)
 
-* [Agglomerative clustering](Modelos/Agglomerative_Clustering.ipynb)
+* [Agglomerative clustering](T1/Agglomerative_Clustering.ipynb)
 
-* [DBSCAN](Modelos/DBSCAN.ipynb)
+* [DBSCAN](T1/DBSCAN.ipynb)
+
+## Estudo de caso
+
+* [Análise Mini Índice](T2/An%C3%A1liseWIN.ipynb)
